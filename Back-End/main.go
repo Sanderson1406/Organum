@@ -1,6 +1,11 @@
 package main
 
+import (
+	database "organum/DataBase"
+	server "organum/Server"
+)
+
 func main() {
-	ConectMongodb()
-	StartServer()
+	database.ConectMongodb()
+	server.StartServer()
 }
