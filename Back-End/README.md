@@ -1,9 +1,3 @@
-## Documentação
-
-Para desenvolvedores, consulte nossa API Reference para obter detalhes sobre endpoints, autenticação e parâmetros.
-
-https://documenter.getpostman.com/view/35096123/2sA3QqgYiR
-
 # Documentação da API Organum
 
 Bem-vindo à documentação da API Organum, uma plataforma multifuncional para organizar leituras de maneira eficiente. A API Organum é composta por um módulo principal:
