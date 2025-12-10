@@ -1,8 +1,8 @@
 package main
 
 import (
-	database "organum/DataBase"
-	server "organum/Server"
+	database "example.com/m/DataBase"
+	server "example.com/m/Server"
 )
 
 func main() {

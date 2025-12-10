@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	models "organum/Models"
+	models "example.com/m/Models"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"

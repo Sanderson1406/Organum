@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	handler "organum/Handler"
+	handler "example.com/m/Handler"
 
 	"github.com/gorilla/mux"
 	"github.com/rs/cors"

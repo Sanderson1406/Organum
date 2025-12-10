@@ -8,8 +8,8 @@ import (
 
 	"go.mongodb.org/mongo-driver/bson/primitive"
 
-	database "organum/DataBase"
-	models "organum/Models"
+	database "example.com/m/DataBase"
+	models "example.com/m/Models"
 )
 
 func CreateAndAddNewBook(w http.ResponseWriter, r *http.Request) {

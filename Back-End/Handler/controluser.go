@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	database "organum/DataBase"
-	models "organum/Models"
+	database "example.com/m/DataBase"
+	models "example.com/m/Models"
 
 	"github.com/dgrijalva/jwt-go"
 	"go.mongodb.org/mongo-driver/bson"

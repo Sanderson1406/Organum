@@ -46,8 +46,6 @@ Para começar a usar o Organum, basta criar uma conta e começar a adicionar seu
 
 Estamos constantemente trabalhando para melhorar o Organum.
 
-* 
-
 ### Contato
 
 Para entrar em contato conosco, envie um email para sandersonoficial10@hotmail.com

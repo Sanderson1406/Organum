@@ -3,7 +3,7 @@ package server
 import (
 	"net/http"
 
-	handler "organum/Handler"
+	handler "example.com/m/Handler"
 )
 
 type Route struct {
